@@ -23,8 +23,6 @@ Welcome to PRODIGY_ML_03! This project implements an image classifier using Supp
    git clone https://github.com/astromanu007/PRODIGY_ML_03.git
    ```
 
-The Kaggle dataset you've linked contains a collection of images of cats and dogs, which is suitable for training an image classifier. It's often used as a standard dataset for beginners in machine learning and computer vision tasks. You can follow these steps to use this dataset for your project:
-
 2. Download the Dataset:
    - Visit the Kaggle dataset page: [Cat and Dog Dataset](https://www.kaggle.com/tongpython/cat-and-dog).
    - Click on the "Download" button to download the dataset as a zip file.
