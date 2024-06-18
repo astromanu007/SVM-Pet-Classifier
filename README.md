@@ -23,7 +23,7 @@ Welcome to PRODIGY_ML_03! This project implements an image classifier using Supp
    git clone https://github.com/astromanu007/PRODIGY_ML_03.git
    ```
 
-2. Download the Kaggle "Cats and Dogs" dataset from [here](https://www.kaggle.com/c/dogs-vs-cats/data) and extract it into the `data/` folder.
+2. Download the Kaggle "Cats and Dogs" dataset from [here]([https://www.kaggle.com/c/dogs-vs-cats/data](https://www.kaggle.com/datasets/tongpython/cat-and-dog)) and extract it into the `data/` folder.
 
 3. Open a terminal and navigate to the project directory:
    ```
