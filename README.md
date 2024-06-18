@@ -23,7 +23,11 @@ Welcome to PRODIGY_ML_03! This project implements an image classifier using Supp
    git clone https://github.com/astromanu007/PRODIGY_ML_03.git
    ```
 
-2. Download the Kaggle "Cats and Dogs" dataset from [here]([https://www.kaggle.com/c/dogs-vs-cats/data](https://www.kaggle.com/datasets/tongpython/cat-and-dog)) and extract it into the `data/` folder.
+The Kaggle dataset you've linked contains a collection of images of cats and dogs, which is suitable for training an image classifier. It's often used as a standard dataset for beginners in machine learning and computer vision tasks. You can follow these steps to use this dataset for your project:
+
+2. Download the Dataset:
+   - Visit the Kaggle dataset page: [Cat and Dog Dataset](https://www.kaggle.com/tongpython/cat-and-dog).
+   - Click on the "Download" button to download the dataset as a zip file.
 
 3. Open a terminal and navigate to the project directory:
    ```
@@ -58,6 +62,7 @@ Welcome to PRODIGY_ML_03! This project implements an image classifier using Supp
 This project demonstrates the implementation of an image classifier using Support Vector Machine (SVM) for classifying cats and dogs images. Experiment with different preprocessing techniques and hyperparameters to improve the model's accuracy.
 
 Thank you for exploring PRODIGY_ML_03!
+
 BEST REGARDS,
 
 MR. MANISH DHATRAK
