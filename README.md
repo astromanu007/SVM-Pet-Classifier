@@ -58,7 +58,6 @@ Welcome to PRODIGY_ML_03! This project implements an image classifier using Supp
 This project demonstrates the implementation of an image classifier using Support Vector Machine (SVM) for classifying cats and dogs images. Experiment with different preprocessing techniques and hyperparameters to improve the model's accuracy.
 
 Thank you for exploring PRODIGY_ML_03!
+BEST REGARDS,
 
----
-
-Feel free to customize this README further to include specific details about your project or any additional sections you find necessary. Let me know if there's anything else I can assist you with!
+MR. MANISH DHATRAK
